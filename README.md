@@ -2,5 +2,5 @@
 
 ## Introduction to Python
 
-Learning how to use the input and print functions
-Learning how to cast different data types
+Using the input and print functions
+Casting different data types
